@@ -1,0 +1,9 @@
+C:\Users\SERVER\Desktop\MegaChecker\bin\Debug\MegaCrack.exe
+C:\Users\SERVER\Desktop\MegaChecker\bin\Debug\MegaCrack.pdb
+C:\Users\SERVER\Desktop\MegaChecker\bin\Debug\MegaApiClient.dll
+C:\Users\SERVER\Desktop\MegaChecker\obj\Debug\MegaChecker.csprojAssemblyReference.cache
+C:\Users\SERVER\Desktop\MegaChecker\obj\Debug\MegaChecker.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\MegaChecker\obj\Debug\MegaChecker.csproj.CopyComplete
+C:\Users\SERVER\Desktop\MegaChecker\obj\Debug\MegaCrack.exe
+C:\Users\SERVER\Desktop\MegaChecker\obj\Debug\MegaCrack.pdb
+C:\Users\SERVER\Desktop\MegaChecker\bin\Debug\Newtonsoft.Json.dll
